@@ -1,0 +1,5 @@
+- How to install multiCilk:
+https://github.com/sspusapaty/multicilk
+
+- How to build OpenCilk v1.0 from source:
+https://www.opencilk.org/doc/users-guide/build-opencilk-from-source/
