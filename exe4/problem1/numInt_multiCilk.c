@@ -24,7 +24,6 @@ void numericalInt_openCilk(float(*funcToIntegrate)(float), int lower, int upper,
     for(int i=1; i <= (intervals-1); i++)
     {
         k = lower + i*h;
-        //float val = 2*f(k);
         integral += 2*f(k);
     }
     integral = integral * (h/2);
